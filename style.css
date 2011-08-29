@@ -8,8 +8,8 @@ body, #entry {
 }
 body, table {
   font-family: DejaVu Sans Mono, fixed; 
-  font-size: 14pt;
-  line-height: 150%;
+  font-size: 10pt;
+  line-height: 100%;
 }
 tr,td,table {
   padding: 0;
